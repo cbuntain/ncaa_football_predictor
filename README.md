@@ -1,0 +1,1 @@
+This repository contains the modules for pulling data from the NCAA statistics web site along with a suite of learning mechanisms for performing prediction on game winners based on their previous game statistics. 
